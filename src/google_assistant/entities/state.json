@@ -1,0 +1,29 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "state",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "0",
+      "synonyms": [
+        "0",
+        "Turn off",
+        "Power off",
+        "Switch off"
+      ]
+    },
+    {
+      "value": "1",
+      "synonyms": [
+        "1",
+        "Turn on",
+        "Power on",
+        "Switch on"
+      ]
+    }
+  ],
+  "id": "5dd3ab2a-3c46-40ad-91be-90f2c14be819",
+  "isOverridable": false
+}
