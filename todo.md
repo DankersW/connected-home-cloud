@@ -1,8 +1,8 @@
 # To-Do
 
 ## Documentation
-- [ ] Read-me
-- [ ] Architecture pic
+- [x] Read-me
+- [x] Architecture pic
 
 ## Testing
 - [ ] Unit tests for the cloud functions
